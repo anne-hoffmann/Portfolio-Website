@@ -14,10 +14,10 @@ const Hero = () => {
                     </a>
                 </div>
 
-                <div className="md:w-[500px] md:h-[500px] w-[300px] h-[300px] rounded full overflow-hidden relative">
+                <div>
                     <img src={HeroImg}
                     alt="hero-img"
-                    className="w-full h-full object-cover" />
+                    className="md:w-[500px] md:h-[500px] w-[300px] h-[300px] rounded full overflow-hidden relative" />
                 </div>
 
             </div>
