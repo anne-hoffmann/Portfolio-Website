@@ -14,7 +14,7 @@ const Hero = () => {
                     </a>
                 </div>
 
-                <div>
+                <div className="md:w-[500px] md:h-[500px] w-[300px] h-[300px] rounded-full">
                     <img src={HeroImg}
                     alt="hero-img"
                     className="md:w-[500px] md:h-[500px] w-[300px] h-[300px]" />
