@@ -12,37 +12,37 @@ const projects = [
         img: GlowScreenshot,
         title: "Glow E-Commerce Website",
         desc: "This project is fully functional including user authentication, add to cart function and a back-end made with MongoDB.",
-        URL: "https://github.com/anne-hoffmann/Glow-Ecommerce-Store",
+        link: "https://github.com/anne-hoffmann/Glow-Ecommerce-Store",
     },
     {
         img: AdminScreenshot,
         title: "Glow Admin Panel",
         desc: "The Glow Admin Panel is linked to the Glow Ecommerce Store and can be used to add new products and see all listed products.",
-        URL: "anne-hoffmann-glow-admin-panel.netlify.app",
+        link: "anne-hoffmann-glow-admin-panel.netlify.app",
     },
     {
         img: SupergummiesScreenshot,
         title: "SuperGummies Landing Page",
         desc: "This SuperGummies landing page has been made with HTML and CSS",
-        URL: "anne-hoffmann-supergummies.netlify.app",
+        link: "anne-hoffmann-supergummies.netlify.app",
     },
     {
         img: CalculatorScreenshot,
         title: "Calculator App",
         desc: "A fully functional calculator app created in Next.js with JavaScript",
-        URL: "anne-hoffmann-calculator-app.netlify.app",
+        link: "anne-hoffmann-calculator-app.netlify.app",
     },
     {
         img: TodoScreenshot,
         title: "Todo List App",
         desc: "A Todo App where ypu can add and remove tasks. Created with React.",
-        URL: "anne-hoffmann-todo-app.netlify.app",
+        link: "anne-hoffmann-todo-app.netlify.app",
     },
     {
         img: WeatherScreenshot,
         title: "Weather App",
         desc: "The Weather App is linked to OpenWeatherMap API. Created with React.",
-        URL: "anne-hoffmann-weather-app.netlify.app",
+        link: "anne-hoffmann-weather-app.netlify.app",
     },
 ]
 
@@ -73,7 +73,7 @@ const Projects = () => {
 
                         <div className="mx-auto">
                             <link
-                            href={projects.URL}
+                            href={projects.link}
                             className="px-5 py-2 bg-[#e6a2b0] hover:bg-[#ba576b] mr-5 font-bold"
                             >Live</link>
                         </div>
