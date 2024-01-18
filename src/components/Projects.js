@@ -73,7 +73,7 @@ const Projects = () => {
 
                         <div className="mx-auto">
                             <a
-                            href={projects.URL}
+                            href="{projects.URL}"
                             className="px-5 py-2 bg-[#e6a2b0] hover:bg-[#ba576b] mr-5 font-bold"
                             >Live</a>
                         </div>
