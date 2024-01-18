@@ -18,31 +18,31 @@ const projects = [
         img: AdminScreenshot,
         title: "Glow Admin Panel",
         desc: "The Glow Admin Panel is linked to the Glow Ecommerce Store and can be used to add new products and see all listed products.",
-        link: "https://github.com/anne-hoffmann/Glow-Admin-Panel",
+        link: "anne-hoffmann-glow-admin-panel.netlify.app",
     },
     {
         img: SupergummiesScreenshot,
         title: "SuperGummies Landing Page",
         desc: "This SuperGummies landing page has been made with HTML and CSS",
-        link: "https://github.com/anne-hoffmann/SuperGummies-Landing-Page",
+        link: "anne-hoffmann-supergummies.netlify.app",
     },
     {
         img: CalculatorScreenshot,
         title: "Calculator App",
         desc: "A fully functional calculator app created in Next.js with JavaScript",
-        link: "https://github.com/anne-hoffmann/Calculator-App",
+        link: "anne-hoffmann-calculator-app.netlify.app",
     },
     {
         img: TodoScreenshot,
         title: "Todo List App",
         desc: "A Todo App where ypu can add and remove tasks. Created with React.",
-        link: "https://github.com/anne-hoffmann/ToDo-App",
+        link: "anne-hoffmann-todo-app.netlify.app",
     },
     {
         img: WeatherScreenshot,
         title: "Weather App",
         desc: "The Weather App is linked to OpenWeatherMap API. Created with React.",
-        link: "https://github.com/anne-hoffmann/Weather-App",
+        link: "anne-hoffmann-weather-app.netlify.app",
     },
 ]
 
@@ -75,7 +75,7 @@ const Projects = () => {
                             <a
                             href={projects.link}
                             className="px-5 py-2 bg-[#e6a2b0] hover:bg-[#ba576b] mr-5 font-bold"
-                            >GitHub</a>
+                            >Live</a>
                         </div>
                     </div>
                 </div>
