@@ -18,31 +18,31 @@ const projects = [
         img: AdminScreenshot,
         title: "Glow Admin Panel",
         desc: "The Glow Admin Panel is linked to the Glow Ecommerce Store and can be used to add new products and see all listed products.",
-        link: "anne-hoffmann-glow-admin-panel.netlify.app",
+        link: "https://anne-hoffmann-glow-admin-panel.netlify.app",
     },
     {
         img: SupergummiesScreenshot,
         title: "SuperGummies Landing Page",
         desc: "This SuperGummies landing page has been made with HTML and CSS",
-        link: "anne-hoffmann-supergummies.netlify.app",
+        link: "https://anne-hoffmann-supergummies.netlify.app",
     },
     {
         img: CalculatorScreenshot,
         title: "Calculator App",
         desc: "A fully functional calculator app created in Next.js with JavaScript",
-        link: "anne-hoffmann-calculator-app.netlify.app",
+        link: "https://anne-hoffmann-calculator-app.netlify.app",
     },
     {
         img: TodoScreenshot,
         title: "Todo List App",
         desc: "A Todo App where ypu can add and remove tasks. Created with React.",
-        link: "anne-hoffmann-todo-app.netlify.app",
+        link: "https://anne-hoffmann-todo-app.netlify.app",
     },
     {
         img: WeatherScreenshot,
         title: "Weather App",
         desc: "The Weather App is linked to OpenWeatherMap API. Created with React.",
-        link: "anne-hoffmann-weather-app.netlify.app",
+        link: "https://anne-hoffmann-weather-app.netlify.app",
     },
 ]
 
