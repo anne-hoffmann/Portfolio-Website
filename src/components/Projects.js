@@ -46,7 +46,7 @@ const projects = [
     },
 ]
 
-
+//comment
 
 const Projects = () => {
     const myProjects = [...projects];
