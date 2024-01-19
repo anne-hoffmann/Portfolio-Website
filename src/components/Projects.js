@@ -46,7 +46,7 @@ const projects = [
     },
 ]
 
-//comment
+
 
 const Projects = () => {
     const myProjects = [...projects];
@@ -72,10 +72,10 @@ const Projects = () => {
                         </p>
 
                         <div className="mx-auto">
-                            <link
+                            <a
                             href={projects.link}
                             className="px-5 py-2 bg-[#e6a2b0] hover:bg-[#ba576b] mr-5 font-bold"
-                            >Live</link>
+                            >Live</a>
                         </div>
                     </div>
                 </div>
